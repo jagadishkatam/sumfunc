@@ -10,8 +10,9 @@ status](https://www.r-pkg.org/badges/version/sumfunc)](https://CRAN.R-project.or
 
 [![Launch
 binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jagadishkatam/sumfunc/master)
-
 ![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/sumfunc)
+[![Codecov test
+coverage](https://codecov.io/gh/jagadishkatam/sumfunc/graph/badge.svg)](https://app.codecov.io/gh/jagadishkatam/sumfunc)
 <!-- badges: end -->
 
 The goal of sumfunc is to …
