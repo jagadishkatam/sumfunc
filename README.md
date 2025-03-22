@@ -7,12 +7,11 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/sumfunc)](https://CRAN.R-project.org/package=sumfunc)
-[![BioC
-status](http://www.bioconductor.org/shields/build/release/bioc/sumfunc.svg)](https://bioconductor.org/checkResults/release/bioc-LATEST/sumfunc)
+
 [![Launch
 binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jagadishkatam/sumfunc/master)
-[![Codecov test
-coverage](https://codecov.io/gh/jagadishkatam/sumfunc/graph/badge.svg)](https://app.codecov.io/gh/jagadishkatam/sumfunc)
+
+![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/sumfunc)
 <!-- badges: end -->
 
 The goal of sumfunc is to …
